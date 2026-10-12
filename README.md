@@ -8,7 +8,7 @@
 
 适用于高中生的数学 CAS 计算套件和演示工具。
 <br/>
-**该项目已停止开发。**
+该项目**暂停**开发。
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=666CB8&center=true&vCenter=true&width=600&lines=Let+my+heart+bravely+spread+the+wings;Soaring+past+the+night;To+trace+the+bright+moonlight;Let+the+clouds+heal+me+of+the+stings;Gently+wipe+the+sorrow+off+my+life%2C+I+dream)](https://git.io/typing-svg)
 
